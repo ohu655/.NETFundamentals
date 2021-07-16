@@ -1,0 +1,13 @@
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.exe
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.deps.json
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.json
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.dev.json
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.dll
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.pdb
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csprojAssemblyReference.cache
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfoInputs.cache
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfo.cs
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.dll
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.pdb
+D:\C# Fundamentals\LegendaryFarming\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.genruntimeconfig.cache

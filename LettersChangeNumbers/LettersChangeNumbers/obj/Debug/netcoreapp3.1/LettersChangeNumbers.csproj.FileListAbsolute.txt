@@ -1,0 +1,12 @@
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.exe
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.deps.json
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.json
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.pdb
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.pdb
+D:\C# Fundamentals\LettersChangeNumbers\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.genruntimeconfig.cache

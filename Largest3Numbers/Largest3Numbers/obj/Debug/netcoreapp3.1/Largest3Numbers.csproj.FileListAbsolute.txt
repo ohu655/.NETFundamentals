@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.exe
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.deps.json
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.runtimeconfig.json
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.dll
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.pdb
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.dll
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.pdb
+D:\C# Fundamentals\Largest3Numbers\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.genruntimeconfig.cache

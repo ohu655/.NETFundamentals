@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXtmocVaHpbjhKhehyKjAn6GhR2kkAR6UWRXOmUrB7VEQwtFt4QHLxiNCggJ3mZOWAMl+WCT+swCIsCYBIQxoQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Fundamentals\\LegendaryFarming\\LegendaryFarming\\LegendaryFarming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

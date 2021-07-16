@@ -1,0 +1,12 @@
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.exe
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.deps.json
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.runtimeconfig.json
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.runtimeconfig.dev.json
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.dll
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.pdb
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.AssemblyInfoInputs.cache
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.AssemblyInfo.cs
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.dll
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.pdb
+D:\C# Fundamentals\AddAndSubstract\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.genruntimeconfig.cache

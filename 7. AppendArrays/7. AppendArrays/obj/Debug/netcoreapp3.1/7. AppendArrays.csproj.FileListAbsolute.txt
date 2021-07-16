@@ -1,0 +1,13 @@
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.exe
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.deps.json
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.runtimeconfig.json
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.runtimeconfig.dev.json
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.dll
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\bin\Debug\netcoreapp3.1\7. AppendArrays.pdb
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.csprojAssemblyReference.cache
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.AssemblyInfo.cs
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.dll
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.pdb
+D:\C# Fundamentals\7. AppendArrays\7. AppendArrays\obj\Debug\netcoreapp3.1\7. AppendArrays.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+D:\C# Fundamentals\Songs\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+D:\C# Fundamentals\Songs\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.exe
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.deps.json
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.json
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.dev.json
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.dll
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.pdb
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csprojAssemblyReference.cache
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfoInputs.cache
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfo.cs
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.dll
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.pdb
+D:\C# Fundamentals\StoreBoxes\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.genruntimeconfig.cache

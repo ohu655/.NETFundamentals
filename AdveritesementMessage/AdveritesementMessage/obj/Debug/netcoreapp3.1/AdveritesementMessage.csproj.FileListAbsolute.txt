@@ -1,0 +1,13 @@
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.exe
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.deps.json
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.runtimeconfig.json
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.runtimeconfig.dev.json
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.dll
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\bin\Debug\netcoreapp3.1\AdveritesementMessage.pdb
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.csprojAssemblyReference.cache
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.AssemblyInfoInputs.cache
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.AssemblyInfo.cs
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.dll
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.pdb
+D:\C# Fundamentals\AdveritesementMessage\AdveritesementMessage\obj\Debug\netcoreapp3.1\AdveritesementMessage.genruntimeconfig.cache

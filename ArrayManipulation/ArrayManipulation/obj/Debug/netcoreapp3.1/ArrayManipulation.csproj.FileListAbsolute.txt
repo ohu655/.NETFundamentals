@@ -1,0 +1,13 @@
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.exe
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.deps.json
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.json
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.dev.json
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.dll
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.pdb
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csprojAssemblyReference.cache
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfo.cs
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.dll
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.pdb
+D:\C# Fundamentals\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.genruntimeconfig.cache

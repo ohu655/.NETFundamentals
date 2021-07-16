@@ -1,0 +1,12 @@
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.exe
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.deps.json
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.runtimeconfig.json
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.runtimeconfig.dev.json
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.dll
+D:\C# Fundamentals\MathPower\MathPower\bin\Debug\netcoreapp3.1\MathPower.pdb
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.AssemblyInfo.cs
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.dll
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.pdb
+D:\C# Fundamentals\MathPower\MathPower\obj\Debug\netcoreapp3.1\MathPower.genruntimeconfig.cache

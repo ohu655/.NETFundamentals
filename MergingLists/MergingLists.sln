@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingLists", "MergingLists\MergingLists.csproj", "{764124DA-D445-47EC-A04C-D869D7FAE3E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764124DA-D445-47EC-A04C-D869D7FAE3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764124DA-D445-47EC-A04C-D869D7FAE3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764124DA-D445-47EC-A04C-D869D7FAE3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764124DA-D445-47EC-A04C-D869D7FAE3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574D730F-D6E0-4E55-823D-6DBD0E5EDDC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.exe
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.deps.json
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.json
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.dev.json
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfo.cs
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+D:\C# Fundamentals\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.genruntimeconfig.cache

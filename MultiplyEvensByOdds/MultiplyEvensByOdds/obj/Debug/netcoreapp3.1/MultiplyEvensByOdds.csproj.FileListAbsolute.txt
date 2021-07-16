@@ -1,0 +1,13 @@
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csprojAssemblyReference.cache
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfo.cs
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.exe
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.deps.json
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.json
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+D:\C# Fundamentals\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.genruntimeconfig.cache

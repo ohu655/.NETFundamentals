@@ -1,0 +1,13 @@
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.exe
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.deps.json
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.json
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.dev.json
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.dll
+D:\C# Fundamentals\MuOnline\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.pdb
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.csprojAssemblyReference.cache
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfo.cs
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.dll
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.pdb
+D:\C# Fundamentals\MuOnline\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.genruntimeconfig.cache

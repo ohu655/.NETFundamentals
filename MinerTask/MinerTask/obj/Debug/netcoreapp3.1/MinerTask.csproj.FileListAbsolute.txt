@@ -1,0 +1,12 @@
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.exe
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.deps.json
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.runtimeconfig.json
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.runtimeconfig.dev.json
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.dll
+D:\C# Fundamentals\MinerTask\MinerTask\bin\Debug\netcoreapp3.1\MinerTask.pdb
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.AssemblyInfo.cs
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.dll
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.pdb
+D:\C# Fundamentals\MinerTask\MinerTask\obj\Debug\netcoreapp3.1\MinerTask.genruntimeconfig.cache

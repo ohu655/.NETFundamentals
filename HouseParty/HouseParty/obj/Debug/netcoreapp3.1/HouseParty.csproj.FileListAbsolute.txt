@@ -1,0 +1,13 @@
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+D:\C# Fundamentals\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+D:\C# Fundamentals\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache

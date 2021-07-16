@@ -1,0 +1,13 @@
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfo.cs
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.exe
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.deps.json
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.json
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.dev.json
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.genruntimeconfig.cache
+D:\C# Fundamentals\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csprojAssemblyReference.cache

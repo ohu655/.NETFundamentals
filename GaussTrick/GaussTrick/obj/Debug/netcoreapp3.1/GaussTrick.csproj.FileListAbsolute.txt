@@ -1,0 +1,13 @@
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.exe
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.deps.json
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.json
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.dev.json
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.dll
+D:\C# Fundamentals\GaussTrick\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.pdb
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csprojAssemblyReference.cache
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfoInputs.cache
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfo.cs
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.dll
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.pdb
+D:\C# Fundamentals\GaussTrick\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.genruntimeconfig.cache

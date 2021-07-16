@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+D:\C# Fundamentals\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+D:\C# Fundamentals\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache

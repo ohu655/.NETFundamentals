@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+D:\C# Fundamentals\Articles\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+D:\C# Fundamentals\Articles\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

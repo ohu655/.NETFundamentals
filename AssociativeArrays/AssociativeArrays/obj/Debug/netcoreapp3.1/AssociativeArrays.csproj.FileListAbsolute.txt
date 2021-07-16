@@ -1,0 +1,12 @@
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.exe
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.deps.json
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.runtimeconfig.json
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.runtimeconfig.dev.json
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.dll
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\AssociativeArrays.pdb
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.AssemblyInfo.cs
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.dll
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.pdb
+D:\C# Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\AssociativeArrays.genruntimeconfig.cache

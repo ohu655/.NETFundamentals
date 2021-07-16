@@ -1,0 +1,12 @@
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.exe
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.deps.json
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.runtimeconfig.json
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.runtimeconfig.dev.json
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.dll
+D:\C# Fundamentals\RepeatString\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.pdb
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.AssemblyInfo.cs
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.dll
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.pdb
+D:\C# Fundamentals\RepeatString\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.genruntimeconfig.cache

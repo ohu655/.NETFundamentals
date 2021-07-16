@@ -1,0 +1,13 @@
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.exe
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.deps.json
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.runtimeconfig.json
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.runtimeconfig.dev.json
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.dll
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\bin\Debug\netcoreapp3.1\PokemonDon'tGo.pdb
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.AssemblyInfoInputs.cache
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.AssemblyInfo.cs
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.dll
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.pdb
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.genruntimeconfig.cache
+D:\C# Fundamentals\PokemonDon'tGo\PokemonDon'tGo\obj\Debug\netcoreapp3.1\PokemonDon'tGo.csprojAssemblyReference.cache

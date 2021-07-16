@@ -1,0 +1,13 @@
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\C# Fundamentals\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

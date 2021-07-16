@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gsEFrLlJcZaNRu/oMyrolmdF/Vv+qO3ekL3TawzrwORleT0vHAfNsJFyRvYqlzd4YL4E1lR3EBOPUT0PsFCgig==",
+  "success": true,
+  "projectFilePath": "D:\\C# Fundamentals\\StudentAcademy\\StudentAcademy\\StudentAcademy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.exe
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.deps.json
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.runtimeconfig.json
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.runtimeconfig.dev.json
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.dll
+D:\C# Fundamentals\StringExplosions\StringExplosions\bin\Debug\netcoreapp3.1\StringExplosions.pdb
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.csprojAssemblyReference.cache
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.AssemblyInfoInputs.cache
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.AssemblyInfo.cs
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.dll
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.pdb
+D:\C# Fundamentals\StringExplosions\StringExplosions\obj\Debug\netcoreapp3.1\StringExplosions.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.exe
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.deps.json
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.json
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.dev.json
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfo.cs
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+D:\C# Fundamentals\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.genruntimeconfig.cache

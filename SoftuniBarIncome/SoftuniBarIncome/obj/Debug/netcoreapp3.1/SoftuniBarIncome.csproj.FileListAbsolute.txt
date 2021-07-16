@@ -1,0 +1,13 @@
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.exe
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.deps.json
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.runtimeconfig.json
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.runtimeconfig.dev.json
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.dll
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.pdb
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.csprojAssemblyReference.cache
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.AssemblyInfo.cs
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.dll
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.pdb
+D:\C# Fundamentals\SoftuniBarIncome\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.genruntimeconfig.cache

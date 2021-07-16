@@ -1,0 +1,13 @@
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.exe
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.deps.json
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.runtimeconfig.json
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.runtimeconfig.dev.json
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.dll
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.pdb
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.csprojAssemblyReference.cache
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.AssemblyInfo.cs
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.dll
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.pdb
+D:\C# Fundamentals\SoftuniExamResults\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.genruntimeconfig.cache

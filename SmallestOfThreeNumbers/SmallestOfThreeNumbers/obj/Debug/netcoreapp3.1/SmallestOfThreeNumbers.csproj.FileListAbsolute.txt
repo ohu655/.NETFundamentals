@@ -1,0 +1,13 @@
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.exe
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.deps.json
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.json
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+D:\C# Fundamentals\SmallestOfThreeNumbers\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.genruntimeconfig.cache

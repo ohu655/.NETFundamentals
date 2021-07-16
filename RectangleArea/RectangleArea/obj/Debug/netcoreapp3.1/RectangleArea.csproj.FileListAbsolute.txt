@@ -1,0 +1,12 @@
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.exe
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.deps.json
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.json
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.dev.json
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.dll
+D:\C# Fundamentals\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.pdb
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfo.cs
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.dll
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.pdb
+D:\C# Fundamentals\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.exe
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.deps.json
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.json
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.dev.json
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.dll
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.pdb
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csprojAssemblyReference.cache
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfo.cs
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.dll
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.pdb
+D:\C# Fundamentals\RandomizeWords\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.genruntimeconfig.cache

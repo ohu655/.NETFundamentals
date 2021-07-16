@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.exe
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.deps.json
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.json
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.dev.json
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.dll
+D:\C# Fundamentals\Race\Race\bin\Debug\netcoreapp3.1\Race.pdb
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.csprojAssemblyReference.cache
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfo.cs
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.dll
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.pdb
+D:\C# Fundamentals\Race\Race\obj\Debug\netcoreapp3.1\Race.genruntimeconfig.cache

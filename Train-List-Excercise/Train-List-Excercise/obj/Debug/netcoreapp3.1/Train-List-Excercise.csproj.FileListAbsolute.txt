@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.exe
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.deps.json
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.runtimeconfig.json
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.runtimeconfig.dev.json
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.dll
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\bin\Debug\netcoreapp3.1\Train-List-Excercise.pdb
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.csprojAssemblyReference.cache
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.AssemblyInfo.cs
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.dll
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.pdb
+D:\C# Fundamentals\Train-List-Excercise\Train-List-Excercise\obj\Debug\netcoreapp3.1\Train-List-Excercise.genruntimeconfig.cache

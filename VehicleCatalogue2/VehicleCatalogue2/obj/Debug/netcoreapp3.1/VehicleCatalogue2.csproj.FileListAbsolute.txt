@@ -1,0 +1,13 @@
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.exe
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.deps.json
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.runtimeconfig.json
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.runtimeconfig.dev.json
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.dll
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.pdb
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.csprojAssemblyReference.cache
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.AssemblyInfoInputs.cache
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.AssemblyInfo.cs
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.dll
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.pdb
+D:\C# Fundamentals\VehicleCatalogue2\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.genruntimeconfig.cache

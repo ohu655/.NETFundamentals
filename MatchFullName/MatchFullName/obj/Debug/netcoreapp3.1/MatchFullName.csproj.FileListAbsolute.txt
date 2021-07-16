@@ -1,0 +1,13 @@
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.exe
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.deps.json
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.json
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.dev.json
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.dll
+D:\C# Fundamentals\MatchFullName\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.pdb
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csprojAssemblyReference.cache
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfo.cs
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.dll
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.pdb
+D:\C# Fundamentals\MatchFullName\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.genruntimeconfig.cache

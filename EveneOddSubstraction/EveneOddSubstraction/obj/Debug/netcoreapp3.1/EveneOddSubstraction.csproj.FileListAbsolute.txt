@@ -1,0 +1,12 @@
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.exe
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.deps.json
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.runtimeconfig.json
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.runtimeconfig.dev.json
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.dll
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\bin\Debug\netcoreapp3.1\EveneOddSubstraction.pdb
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.AssemblyInfoInputs.cache
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.AssemblyInfo.cs
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.dll
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.pdb
+D:\C# Fundamentals\EveneOddSubstraction\EveneOddSubstraction\obj\Debug\netcoreapp3.1\EveneOddSubstraction.genruntimeconfig.cache

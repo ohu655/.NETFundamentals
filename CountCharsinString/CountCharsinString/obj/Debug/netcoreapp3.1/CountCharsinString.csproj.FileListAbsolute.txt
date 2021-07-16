@@ -1,0 +1,13 @@
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.exe
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.deps.json
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.runtimeconfig.json
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.runtimeconfig.dev.json
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.dll
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\bin\Debug\netcoreapp3.1\CountCharsinString.pdb
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.csprojAssemblyReference.cache
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.AssemblyInfoInputs.cache
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.AssemblyInfo.cs
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.dll
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.pdb
+D:\C# Fundamentals\CountCharsinString\CountCharsinString\obj\Debug\netcoreapp3.1\CountCharsinString.genruntimeconfig.cache

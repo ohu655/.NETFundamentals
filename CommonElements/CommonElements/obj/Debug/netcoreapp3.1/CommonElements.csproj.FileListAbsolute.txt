@@ -1,0 +1,12 @@
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.exe
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.deps.json
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.json
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.dev.json
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.dll
+D:\C# Fundamentals\CommonElements\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.pdb
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfoInputs.cache
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfo.cs
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.dll
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.pdb
+D:\C# Fundamentals\CommonElements\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.exe
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.deps.json
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.json
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.dev.json
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.dll
+D:\C# Fundamentals\ChangeList\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.pdb
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfo.cs
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.dll
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.pdb
+D:\C# Fundamentals\ChangeList\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.genruntimeconfig.cache

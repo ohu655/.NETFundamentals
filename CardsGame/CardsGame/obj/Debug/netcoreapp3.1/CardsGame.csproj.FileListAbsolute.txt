@@ -1,0 +1,13 @@
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.exe
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.deps.json
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.runtimeconfig.json
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.runtimeconfig.dev.json
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.dll
+D:\C# Fundamentals\CardsGame\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.pdb
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.csprojAssemblyReference.cache
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.AssemblyInfoInputs.cache
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.AssemblyInfo.cs
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.dll
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.pdb
+D:\C# Fundamentals\CardsGame\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.genruntimeconfig.cache

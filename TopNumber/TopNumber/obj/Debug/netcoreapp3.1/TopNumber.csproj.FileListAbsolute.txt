@@ -1,0 +1,12 @@
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+D:\C# Fundamentals\TopNumber\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+D:\C# Fundamentals\TopNumber\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

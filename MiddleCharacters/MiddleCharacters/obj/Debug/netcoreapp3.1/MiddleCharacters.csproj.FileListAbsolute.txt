@@ -1,0 +1,12 @@
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\C# Fundamentals\MiddleCharacters\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache

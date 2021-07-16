@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+D:\C# Fundamentals\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+D:\C# Fundamentals\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

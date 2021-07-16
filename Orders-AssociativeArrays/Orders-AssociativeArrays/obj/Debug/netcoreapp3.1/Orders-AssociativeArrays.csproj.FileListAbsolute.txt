@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.exe
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.deps.json
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.runtimeconfig.json
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.runtimeconfig.dev.json
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.dll
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\bin\Debug\netcoreapp3.1\Orders-AssociativeArrays.pdb
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.csprojAssemblyReference.cache
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.AssemblyInfo.cs
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.dll
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.pdb
+D:\C# Fundamentals\Orders-AssociativeArrays\Orders-AssociativeArrays\obj\Debug\netcoreapp3.1\Orders-AssociativeArrays.genruntimeconfig.cache

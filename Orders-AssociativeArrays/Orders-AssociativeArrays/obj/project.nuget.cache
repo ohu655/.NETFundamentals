@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ym3eXGDiyEvQdY/y9tLHTzuQC108Q7V9G3lKzbu7lYJ9EQEaVJa4hsDp6yyiiNn4DRtkJ6yPV8RDHZTY0QflEA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Fundamentals\\Orders-AssociativeArrays\\Orders-AssociativeArrays\\Orders-AssociativeArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

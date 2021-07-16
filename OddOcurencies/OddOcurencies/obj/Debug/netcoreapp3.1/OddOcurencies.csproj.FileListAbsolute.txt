@@ -1,0 +1,12 @@
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.exe
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.deps.json
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.runtimeconfig.json
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.runtimeconfig.dev.json
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.dll
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\bin\Debug\netcoreapp3.1\OddOcurencies.pdb
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.AssemblyInfo.cs
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.dll
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.pdb
+D:\C# Fundamentals\OddOcurencies\OddOcurencies\obj\Debug\netcoreapp3.1\OddOcurencies.genruntimeconfig.cache

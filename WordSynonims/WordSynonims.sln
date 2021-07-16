@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSynonims", "WordSynonims\WordSynonims.csproj", "{FB703198-DF92-423B-B21E-ECD269E6DD76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB703198-DF92-423B-B21E-ECD269E6DD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB703198-DF92-423B-B21E-ECD269E6DD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB703198-DF92-423B-B21E-ECD269E6DD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB703198-DF92-423B-B21E-ECD269E6DD76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B80590-5828-441F-8A79-CDDA0F8385ED}
+	EndGlobalSection
+EndGlobal

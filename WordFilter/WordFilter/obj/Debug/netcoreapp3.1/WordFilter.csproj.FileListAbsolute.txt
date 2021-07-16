@@ -1,0 +1,12 @@
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.exe
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.deps.json
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.runtimeconfig.json
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.runtimeconfig.dev.json
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.dll
+D:\C# Fundamentals\WordFilter\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.pdb
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.AssemblyInfoInputs.cache
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.AssemblyInfo.cs
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.dll
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.pdb
+D:\C# Fundamentals\WordFilter\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.genruntimeconfig.cache

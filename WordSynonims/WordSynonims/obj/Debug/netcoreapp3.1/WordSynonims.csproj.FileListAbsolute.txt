@@ -1,0 +1,12 @@
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.exe
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.deps.json
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.runtimeconfig.json
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.runtimeconfig.dev.json
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.dll
+D:\C# Fundamentals\WordSynonims\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.pdb
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.AssemblyInfoInputs.cache
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.AssemblyInfo.cs
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.dll
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.pdb
+D:\C# Fundamentals\WordSynonims\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.genruntimeconfig.cache

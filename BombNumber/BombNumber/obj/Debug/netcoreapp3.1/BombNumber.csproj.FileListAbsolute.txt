@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.exe
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.deps.json
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.runtimeconfig.json
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.runtimeconfig.dev.json
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.dll
+D:\C# Fundamentals\BombNumber\BombNumber\bin\Debug\netcoreapp3.1\BombNumber.pdb
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.csprojAssemblyReference.cache
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.AssemblyInfo.cs
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.dll
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.pdb
+D:\C# Fundamentals\BombNumber\BombNumber\obj\Debug\netcoreapp3.1\BombNumber.genruntimeconfig.cache

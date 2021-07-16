@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+D:\C# Fundamentals\BigFactorial\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+D:\C# Fundamentals\BigFactorial\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.exe
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.deps.json
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.json
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.dev.json
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.dll
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.pdb
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csprojAssemblyReference.cache
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfoInputs.cache
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfo.cs
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.dll
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.pdb
+D:\C# Fundamentals\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.genruntimeconfig.cache

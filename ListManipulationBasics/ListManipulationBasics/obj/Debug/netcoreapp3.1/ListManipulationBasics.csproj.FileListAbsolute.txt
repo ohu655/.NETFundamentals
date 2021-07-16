@@ -1,0 +1,12 @@
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.exe
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.deps.json
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.runtimeconfig.json
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.runtimeconfig.dev.json
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.dll
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.pdb
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.AssemblyInfo.cs
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.dll
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.pdb
+D:\C# Fundamentals\ListManipulationBasics\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.exe
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.deps.json
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.json
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.dev.json
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.dll
+D:\C# Fundamentals\ListOperations\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.pdb
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfo.cs
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.dll
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.pdb
+D:\C# Fundamentals\ListOperations\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.genruntimeconfig.cache

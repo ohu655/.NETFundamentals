@@ -1,0 +1,12 @@
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.exe
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.deps.json
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.json
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.dev.json
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.dll
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.pdb
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfo.cs
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.dll
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.pdb
+D:\C# Fundamentals\ListOfProducts\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.genruntimeconfig.cache

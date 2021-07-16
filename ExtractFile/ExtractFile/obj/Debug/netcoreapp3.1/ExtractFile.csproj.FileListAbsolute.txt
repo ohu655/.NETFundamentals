@@ -1,0 +1,12 @@
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.exe
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.deps.json
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.json
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.dev.json
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.dll
+D:\C# Fundamentals\ExtractFile\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.pdb
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfoInputs.cache
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfo.cs
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.dll
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.pdb
+D:\C# Fundamentals\ExtractFile\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.genruntimeconfig.cache

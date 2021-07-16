@@ -1,0 +1,93 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace ForceBook
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Dictionary<string, List<string>> forceUsers = new Dictionary<string, List<string>>();
+            Dictionary<string, string> members = new Dictionary<string, string>();
+
+            while (true)
+            {
+                string line = Console.ReadLine();
+
+                if (line == "Lumpawaroo")
+                {
+                    break;
+                }
+
+                if (line.Contains(" | "))
+                {
+                    string[] parts = line.Split(" | ");
+                    string forceSide = parts[0];
+                    string forceUser = parts[1];
+
+                    if (members.ContainsKey(forceUser))
+                    {
+                        continue;
+                    }
+
+                    if (!forceUsers.ContainsKey(forceSide))
+                    {
+                        forceUsers.Add(forceSide, new List<string>());
+                    }
+                   
+                        forceUsers[forceSide].Add(forceUser);
+                        members.Add(forceUser, forceSide);
+                }
+                else
+                {
+                    string[] parts = line.Split(" -> ");
+                    string forceUser = parts[0];
+                    string forceSide = parts[1];
+
+                    if (!forceUsers.ContainsKey(forceSide))
+                    {
+                        forceUsers.Add(forceSide, new List<string>());
+                    }
+
+                    if (members.ContainsKey(forceUser))
+                    {
+                        string oldSide = members[forceUser];
+
+                        forceUsers[oldSide].Remove(forceUser);
+                        forceUsers[forceSide].Add(forceUser);
+                        members[forceUser] = forceSide;
+                    }
+                    else
+                    {
+                        forceUsers[forceSide].Add(forceUser);
+                        members.Add(forceUser, forceSide);
+                    }
+
+                    Console.WriteLine($"{forceUser} joins the {forceSide} side!");
+
+                }
+                
+            }
+
+            Dictionary<string, List<string>> result = forceUsers
+                .Where(s => s.Value.Count > 0)
+                .OrderByDescending(s => s.Value.Count)
+                .ThenBy(s => s.Key)
+                .ToDictionary(s => s.Key, s => s.Value);
+
+            foreach (var kvp in result)
+            {
+                Console.WriteLine($"Side: {kvp.Key}, Members: {kvp.Value.Count}");
+
+                kvp.Value.Sort();
+
+                foreach (var member in kvp.Value)
+                {
+                    Console.WriteLine($"! {member}");
+                }
+            }
+
+        }
+    }
+}

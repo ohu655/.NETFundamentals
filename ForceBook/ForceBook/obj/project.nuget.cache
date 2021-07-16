@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBphEqDXlWGYWqUf3Ts65qVF4yTCTYiO9LuVxnwcvJ/B0Lqvb5VAgeZR/BQw4FmWSxeRSMJbCFFM8Jmn7eZvBA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Fundamentals\\ForceBook\\ForceBook\\ForceBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

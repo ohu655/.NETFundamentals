@@ -1,0 +1,13 @@
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.exe
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.deps.json
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.runtimeconfig.json
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.dll
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.pdb
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.dll
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.pdb
+D:\C# Fundamentals\SumAdjectionEqualNumbers\SumAdjectionEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjectionEqualNumbers.genruntimeconfig.cache

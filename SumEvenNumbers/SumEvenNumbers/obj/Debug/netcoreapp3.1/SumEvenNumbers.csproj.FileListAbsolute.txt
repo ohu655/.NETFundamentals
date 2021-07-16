@@ -1,0 +1,12 @@
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.exe
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.deps.json
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.json
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.dll
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.dll
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+D:\C# Fundamentals\SumEvenNumbers\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.genruntimeconfig.cache

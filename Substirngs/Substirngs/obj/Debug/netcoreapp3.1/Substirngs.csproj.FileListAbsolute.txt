@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.exe
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.deps.json
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.runtimeconfig.json
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.runtimeconfig.dev.json
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.dll
+D:\C# Fundamentals\Substirngs\Substirngs\bin\Debug\netcoreapp3.1\Substirngs.pdb
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.AssemblyInfo.cs
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.dll
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.pdb
+D:\C# Fundamentals\Substirngs\Substirngs\obj\Debug\netcoreapp3.1\Substirngs.genruntimeconfig.cache

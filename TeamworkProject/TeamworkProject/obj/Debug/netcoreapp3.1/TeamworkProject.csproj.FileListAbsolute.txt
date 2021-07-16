@@ -1,0 +1,13 @@
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.exe
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.deps.json
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.runtimeconfig.json
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.runtimeconfig.dev.json
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.dll
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\bin\Debug\netcoreapp3.1\TeamworkProject.pdb
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.csprojAssemblyReference.cache
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.AssemblyInfoInputs.cache
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.AssemblyInfo.cs
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.dll
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.pdb
+D:\C# Fundamentals\TeamworkProject\TeamworkProject\obj\Debug\netcoreapp3.1\TeamworkProject.genruntimeconfig.cache

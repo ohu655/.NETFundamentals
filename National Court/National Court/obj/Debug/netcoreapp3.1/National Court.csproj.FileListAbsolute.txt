@@ -1,0 +1,13 @@
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.exe
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.deps.json
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.json
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.dev.json
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.dll
+D:\C# Fundamentals\National Court\National Court\bin\Debug\netcoreapp3.1\National Court.pdb
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.AssemblyReference.cache
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfoInputs.cache
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfo.cs
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.dll
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.pdb
+D:\C# Fundamentals\National Court\National Court\obj\Debug\netcoreapp3.1\National Court.genruntimeconfig.cache
